@@ -1,4 +1,4 @@
-# QA-Auto-Assistant-
+# QA-Auto-Assistant-Cherkashyn-Viktor
 
 Вопросы:
 ------------------------------------------------------------------

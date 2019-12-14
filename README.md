@@ -11,7 +11,7 @@ H1 Ответы:
 -
       ```
       let number = prompt("введите число")
-      number > 7 ? alert("привет") : alert("пока")
+      number > 7 ? alert("Привет") : alert("пока")
       ```
      
 -
